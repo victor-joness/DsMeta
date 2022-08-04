@@ -12,7 +12,6 @@ dist
 dist-ssr
 *.local
 tsconfig.json
-yarn.lock
 vite.config.ts
 tsconfig.node.json
 
